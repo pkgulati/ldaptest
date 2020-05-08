@@ -1,0 +1,5 @@
+{
+  "url":"ldap://ad.infosys.com",
+  "upn" : "user@ad.infosys.com",
+   "password" : "dd@87D!"
+}
